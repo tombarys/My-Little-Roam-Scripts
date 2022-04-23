@@ -6,7 +6,7 @@
 
 ## Installation
 - create a Clojure Code block in the Roam
-- copy the code from the [selfdestruct.clj](https://github.com/tombarys/Little-Roam-Scripts/blob/master/src/selfdestruct.clj)
+- copy the code from the [selfdestruct.clj](https://github.com/tombarys/My-Little-Roam-Scripts/blob/master/src/selfdestruct.clj)
 - get block id of the code block (right-click the bullet, Copy Block Ref) – you get `((something))` into clipboard
 - put `{{roam/render: ((something))}}` at the end of the block you want to delete
 
